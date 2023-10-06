@@ -1,8 +1,12 @@
 import React from 'react'
-
+import Sellerpage from './components/Sellerpage'
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+<Sellerpage/>
+      
+      
+    </div>
   )
 }
 
